@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_node - Creates a binary tree node.
- * 
+ *
  * @parent: Pointer to the parent of the node to create.
  * @value: The value to input in the new node.
  *
@@ -24,3 +24,4 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 
 	return (new);
 }
+

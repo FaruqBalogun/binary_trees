@@ -30,7 +30,7 @@ prototypes for all types and functions written for the project.
 
 Data Structures
 ```
-struct binary_tree_s
+# struct binary_tree_s
 {
     int n;
     struct binary_tree_s *parent;
